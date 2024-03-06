@@ -7,7 +7,7 @@ This code allows you to convert your photo to excel format.
 3. Excel workbook is created, and the extracted colours are used to colour a grid of 64x64 cells in excel. 
 
 <p align="center">
-  <img src="example/output_example.png"  width="600" height="324">
+  <img src="example/output_example.png"  width="600">
 </p>
 
 ## Instructions:

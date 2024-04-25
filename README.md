@@ -2,8 +2,8 @@
 This code allows you to convert your photo to excel format. 
 
 ## The Photo-to-Excel converter works in the following way:
-1. The photo you specify is first pixelated into 64x64 pixel format, 
-2. Colours are extracted from each of the pixels,
+1. The photo you specify is first pixelated into 64x64 pixel format.
+2. Colours are extracted from each of the pixels.
 3. Excel workbook is created, and the extracted colours are used to colour a grid of 64x64 cells in excel. 
 
 <p align="center">

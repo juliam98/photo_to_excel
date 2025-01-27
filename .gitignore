@@ -5,3 +5,4 @@ src/Photo_to_Excel.egg-info
 src/Photo_to_Excel/__pycache__
 poetry.lock
 README_files/
+tests/tests.py

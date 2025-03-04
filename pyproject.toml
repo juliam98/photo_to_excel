@@ -14,14 +14,14 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: MacOS",
 ]
-license = { file = "LICENSE" }
+license-files = ["LICENSE"]
 
 [project.urls]
 Homepage = "https://github.com/juliam98/photo_to_excel"
 Issues = "https://github.com/juliam98/photo_to_excel/issues"
 
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools <=60.10.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools.packages.find]

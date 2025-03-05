@@ -1,5 +1,6 @@
 .DS_Store
 .venv/
+venv/
 .vscode/
 src/Photo_to_Excel/__pycache__/*
 src/Photo_to_Excel.egg-info

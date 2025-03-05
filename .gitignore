@@ -1,8 +1,11 @@
 .DS_Store
 .venv/
+.vscode/
 src/Photo_to_Excel/__pycache__/*
 src/Photo_to_Excel.egg-info
 src/Photo_to_Excel/__pycache__
 poetry.lock
 README_files/
 tests/tests.py
+tests/test_photos/*pixelated*
+tests/test_photos/*.xlsx
